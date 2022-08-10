@@ -1,1 +1,1 @@
-# Comp_Maths
+# Computational Mathematics
