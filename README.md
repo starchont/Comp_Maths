@@ -56,6 +56,6 @@ With this code, we computed the volume of 10-dimensional sphere with Monte Carlo
 
 **6: The Ising Model**
 
-In this program we simulated 1-D isind model by using Metropolis Monte Carlo Algorithm.
+In this program we simulated 1-D ising model by using Metropolis Monte Carlo Algorithm.
 
 We created a graph with the mean value of magnitude vs time for different values of temperature.
